@@ -1,10 +1,3 @@
-Aqui está um exemplo de arquivo `README.md` que você pode usar para o seu projeto de classificador de filmes. Este formato é ideal para ser usado no GitHub ou em qualquer repositório, pois explica o que o projeto faz, como usá-lo e quais são as dependências.
-
------
-
-### README.md
-
-````markdown
 # Classificador de Gênero de Filme com Python
 
 Este projeto é um classificador simples que usa aprendizado de máquina para prever o gênero de um filme (Comédia ou Drama) com base em sua sinopse. O modelo é treinado usando a linguagem Python e a biblioteca Scikit-learn.
